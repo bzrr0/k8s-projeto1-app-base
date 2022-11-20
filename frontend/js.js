@@ -5,7 +5,7 @@ $("#button-blue").on("click", function() {
     var txt_comentario = $("#comment").val();
 
     $.ajax({
-        url: "",
+        url: "ENDEREÇO REMOVIDO DEVIDO A NÃO TER ACESSO CONTINUO NO GCP",
         
         type: "post",
         data: {nome: txt_nome, comentario: txt_comentario, email: txt_email},
